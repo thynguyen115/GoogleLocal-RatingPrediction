@@ -12,7 +12,7 @@
 # Keywords: 
 - Factorization Matrix (SVD), Surprise's SVD
 - Factorization Machine, fastFM
-- MSE, $R^2$
+- MSE, R^2
 - EDA
 - Feature selections, feature engineering (one-hot encoding, ordinal encoding)
  
